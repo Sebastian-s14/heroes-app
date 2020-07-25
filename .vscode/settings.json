@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#008cff",
+        "editor.selectionBackground": "#2e9df756",
+        "editor.selectionHighlightBorder": "#ff0000",
+        "titleBar.activeForeground": "#fff",
+        // "statusBar.background": "#ff0000",
+        // "statusBar.background": "#ff0000",
+        // "debugToolBar.background": "#ff0000",
+        "statusBar.debuggingBackground": "#ff0000",
+        "titleBar.activeBackground": "#ff0000bd",
+        "tab.activeBackground": "#2f369c",
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveBackground": "#2f369c52",
+        "tab.inactiveForeground": "#d3d3d3",
+        "tab.activeBorder": "#25f8ff",
+        // "editor.background": "#16143515",
+    },
+    "editor.cursorWidth": 5,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "phase",
+
+}
