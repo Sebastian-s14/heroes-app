@@ -9,7 +9,7 @@
         // "statusBar.background": "#ff0000",
         // "debugToolBar.background": "#ff0000",
         "statusBar.debuggingBackground": "#ff0000",
-        "titleBar.activeBackground": "#ff0000bd",
+        "titleBar.activeBackground": "#00a2ffbd",
         "tab.activeBackground": "#2f369c",
         "tab.activeForeground": "#ffffff",
         "tab.inactiveBackground": "#2f369c52",
